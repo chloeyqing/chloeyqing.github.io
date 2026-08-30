@@ -312,7 +312,8 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: center;
-
+    overflow: visible;
+   
     padding-top: 55px;
 }
 
