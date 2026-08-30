@@ -1,14 +1,14 @@
 :root {
-    --background: #faf9f7;
+    --background: #fffdfc;
     --surface: #ffffff;
 
-    --text: #29282d;
-    --muted: #74717a;
+    --text: #2f3035;
+    --muted: #777982;
 
-    --accent: #8b8192;
-    --accent-soft: #eee9ef;
+    --accent: #e8aebc;
+    --accent-soft: #fff1f4;
 
-    --border: #e7e3e7;
+    --border: #f0e6e8;
 
     --max-width: 1050px;
 }
